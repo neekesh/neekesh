@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @neekesh
 - 👀 I’m interested in problem solving.
-- 🌱 I’m currently working python(django, flask), system(linux),etc. 
+- 🌱 I’m currently working python(django, flask), system(linux), golang, frontend(next, )etc. 
 - 💞️ I’m looking to collaborate on open-source projects, web development, python programming, golang
 - 📫 How to reach me nikesthapa20@gmail.com
+  
 
 <!---
 neekesh/neekesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
