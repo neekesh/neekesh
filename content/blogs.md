@@ -8,4 +8,4 @@ https://medium.com/readytowork-org/docker-swarm-orchestration-in-compute-engine-
 
 https://medium.com/readytowork-org/validators-packages-in-go-d7e0b29e3b01
 
-(https://medium.com/readytowork-org/implementing-http-request-in-golang-642ad5d5aa92
+https://medium.com/readytowork-org/implementing-http-request-in-golang-642ad5d5aa92
