@@ -3,7 +3,7 @@
 Led the design and implementation of scalable system architectures, ensuring reliability. Used Docker to optimize development and deployment. Collaborated with cross-functional teams to improve features and fix bugs. Managed full-stack development, delivering end-to-end solutions.
 - Golang 
 - Docker
--  GCP
+- GCP
 - NextJS
 - TypeScript
 - Gin
@@ -20,7 +20,7 @@ Led the redesign of the OpenedX system, improving performance and usability. Gai
 - Docker
 
 # 2021 - 2021
-###  [Django Developer(Intern),Gaaubesi Logistics Pvt. Ltd.](https://gaaubesi.com)  
+###  [Django Developer(Intern),Gaaubesi Logistics Pvt. Ltd.](https://gaaubesi.com/)  
 Contributed to optimizing logistics operations in in-house projects and gained foundational knowledge of web development technologies to improve frontend functionality.
 - Python
 - Linux
