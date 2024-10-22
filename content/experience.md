@@ -20,7 +20,7 @@ Led the redesign of the OpenedX system, improving performance and usability. Gai
 - Docker
 
 # 2021 - 2021
-### [Django Developer(Intern),Gaaubesi Logistics Pvt. Ltd.](https://gaaubesi.com/)  
+### [Django Developer, Gaaubesi Logistics Pvt. Ltd.](https://gaaubesi.com/)  
 Contributed to optimizing logistics operations in in-house projects and gained foundational knowledge of web development technologies to improve frontend functionality.
 - Python
 - Linux
