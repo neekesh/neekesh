@@ -14,4 +14,4 @@
 **PojectName**:  Delivery System and Marketing Site
 **Made at**: Gaaubesi Logistics
 **Tech Stack**: Python, Django, Javascript, JQuery
-**Link**: [https://gaaubesi.com](https://gaaubesi.com/)
+**Link**: https://gaaubesi.com/
